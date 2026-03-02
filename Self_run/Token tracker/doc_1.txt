@@ -1,0 +1,2 @@
+The quick brown fox jumps over the lazy dog. 
+AI models process text by breaking it into chunks.

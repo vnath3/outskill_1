@@ -1,0 +1,5 @@
+ID: 1001 | Sentiment: Positive | Confidence: 0.985
+ID: 1002 | Sentiment: Negative | Confidence: 0.821
+ID: 1003 | Sentiment: Neutral  | Confidence: 0.450
+ID: 1004 | Sentiment: Positive | Confidence: 0.912
+ID: 1005 | Sentiment: Negative | Confidence: 0.670

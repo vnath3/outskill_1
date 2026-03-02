@@ -1,0 +1,2 @@
+Data preprocessing is the most important step in machine learning.
+Cleaning strings ensures better model performance and accuracy.

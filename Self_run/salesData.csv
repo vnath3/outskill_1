@@ -1,0 +1,6 @@
+TransactionID,Product,Price,Quantity
+101,Laptop,1200,1
+102,Mouse,25,None
+103,Keyboard,75,2
+104,Monitor,300,0
+105,USB-C Cable,15,3

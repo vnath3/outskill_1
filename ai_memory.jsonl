@@ -1,0 +1,4 @@
+{"timestamp": "2026-03-02 22:10:23.463764", "prompt": "What is the capital of France?", "response": "The capital of France is Paris.", "total_tokens": 56}
+{"timestamp": "2026-03-02 22:19:51.061889", "prompt": "What is the capital of India?", "response": "The capital of India is New Delhi.", "usage": {"total_tokens": 57}}
+{"timestamp": "2026-03-02 22:26:43.529141", "prompt": "Who is the PM of India", "response": "The current Prime Minister of India is Narendra Modi. He has been serving as the Prime Minister of India since May 26, 2014.", "usage": {"total_tokens": 77}}
+{"timestamp": "2026-03-02 22:27:00.521352", "prompt": "qquit", "response": "It seems like you meant to type \"quit.\" If you'd like to end our conversation, you can simply confirm by saying \"yes\" or \"quit\" again, and I'll be happy to bid you farewell. Is there anything else I can help you with before you go?", "usage": {"total_tokens": 101}}
